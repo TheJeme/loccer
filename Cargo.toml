@@ -5,7 +5,7 @@ description = "Loccer is a tool for counting lines of code"
 readme = "README.md"
 repository = "https://github.com/TheJeme/loccer"
 license = "MIT"
-keywords = ["count", "lines", "of", "code"]
+keywords = ["count", "lines", "code", "loc"]
 categories = ["filesystem"]
 edition = "2021"
 
